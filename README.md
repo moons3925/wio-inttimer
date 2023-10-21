@@ -1,5 +1,6 @@
-# wio-term
-Wio Terminal で L チカする(デバッグ環境用)
+# wio-inttimer
+
+Wio Terminal で タイマー割り込みを使って L チカする(デバッグ環境用)
 
 ## setting.json
 
@@ -10,5 +11,5 @@ Wio Terminal で L チカする(デバッグ環境用)
 
 ## ブログ
 
-[WioでRust 開発環境を構築する](https://moons.link/wio/post-24/)
+[WioでRust 割り込みでタイマーを動かしてみる](https://moons.link/wio/post-347/)
 
